@@ -1,5 +1,5 @@
 <div align=center>
-<img width="3000" height="500" alt="eize-extended" src="https://github.com/user-attachments/assets/928eb2fa-484c-4e11-b2f6-51be60ac5de8" />
+<img width="600" height="100" alt="eize-extended-600x100" src="https://github.com/user-attachments/assets/7fa7ee78-8956-495d-9949-c82f776c3683" />
 </div>
 
 # eize (in development)
