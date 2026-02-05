@@ -1,3 +1,7 @@
+<div align=center>
+<img width="3000" height="500" alt="eize-extended" src="https://github.com/user-attachments/assets/928eb2fa-484c-4e11-b2f6-51be60ac5de8" />
+</div>
+
 # eize (in development)
 My personal project where I put what I learn into pratice.
 
